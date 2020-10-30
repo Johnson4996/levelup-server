@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "/Users/chortlehoort/.virtualenvs/levelup-JVksaNrf/bin/python",
+    "python.linting.pylintEnabled": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "LevelUp DB",
+            "database": "db.sqlite3"
+        }
+    ]
+}
